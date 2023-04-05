@@ -1,0 +1,20 @@
+.carritoImagen {
+    width: 30px;
+    right: 5px;
+    position: relative;
+
+}
+
+.numeroDeCompras {
+    width: 22px;
+    height: 22px;
+    font-weight: 500;
+    font-size: 0.8em;
+    color: whitesmoke;
+    background-color: gray;
+    position: absolute;
+    top: 5px;
+    right: 4px;
+    border-radius: 50%;
+
+}
